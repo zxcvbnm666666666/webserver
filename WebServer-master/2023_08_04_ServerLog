@@ -1,0 +1,241 @@
+2023-08-04 16:40:52.148976 [erro]: MySQL Error
+2023-08-04 16:42:38.955994 [erro]: MySQL Error[errno=1045]: Access denied for user 'name'@'localhost' (using password: YES)
+2023-08-04 16:51:00.540296 [erro]: MySQL Error[errno=1045]: Access denied for user 'name'@'localhost' (using password: YES)
+2023-08-04 16:52:29.192360 [erro]: MySQL Error[errno=1045]: Access denied for user 'name'@'localhost' (using password: YES)
+2023-08-04 16:55:57.645053 [info]: timer tick
+2023-08-04 16:56:02.645541 [info]: timer tick
+2023-08-04 16:56:07.646489 [info]: timer tick
+2023-08-04 16:56:12.647101 [info]: timer tick
+2023-08-04 16:56:17.647747 [info]: timer tick
+2023-08-04 16:56:22.648732 [info]: timer tick
+2023-08-04 16:56:27.649496 [info]: timer tick
+2023-08-04 16:56:32.650306 [info]: timer tick
+2023-08-04 16:56:37.650733 [info]: timer tick
+2023-08-04 16:56:42.651337 [info]: timer tick
+2023-08-04 16:56:47.651919 [info]: timer tick
+2023-08-04 16:56:52.652295 [info]: timer tick
+2023-08-04 16:56:57.652907 [info]: timer tick
+2023-08-04 16:57:02.653543 [info]: timer tick
+2023-08-04 16:57:07.653754 [info]: timer tick
+2023-08-04 16:57:12.654095 [info]: timer tick
+2023-08-04 16:57:17.654614 [info]: timer tick
+2023-08-04 16:57:22.654969 [info]: timer tick
+2023-08-04 16:57:27.655223 [info]: timer tick
+2023-08-04 16:57:32.655422 [info]: timer tick
+2023-08-04 16:57:37.655803 [info]: timer tick
+2023-08-04 16:57:42.656338 [info]: timer tick
+2023-08-04 16:57:47.656734 [info]: timer tick
+2023-08-04 16:57:52.657245 [info]: timer tick
+2023-08-04 16:57:57.657394 [info]: timer tick
+2023-08-04 16:58:02.658375 [info]: timer tick
+2023-08-04 16:58:07.658899 [info]: timer tick
+2023-08-04 16:58:12.659757 [info]: timer tick
+2023-08-04 16:58:17.660449 [info]: timer tick
+2023-08-04 16:58:22.660623 [info]: timer tick
+2023-08-04 16:58:27.661165 [info]: timer tick
+2023-08-04 16:58:32.661443 [info]: timer tick
+2023-08-04 16:58:37.661633 [info]: timer tick
+2023-08-04 16:58:42.662611 [info]: timer tick
+2023-08-04 16:58:47.662773 [info]: timer tick
+2023-08-04 16:58:52.663277 [info]: timer tick
+2023-08-04 16:58:57.663771 [info]: timer tick
+2023-08-04 16:59:02.664387 [info]: timer tick
+2023-08-04 16:59:07.664546 [info]: timer tick
+2023-08-04 16:59:12.665083 [info]: timer tick
+2023-08-04 16:59:17.665706 [info]: timer tick
+2023-08-04 16:59:22.666180 [info]: timer tick
+2023-08-04 16:59:27.666389 [info]: timer tick
+2023-08-04 16:59:32.667008 [info]: timer tick
+2023-08-04 16:59:37.667974 [info]: timer tick
+2023-08-04 16:59:42.668801 [info]: timer tick
+2023-08-04 16:59:47.669428 [info]: timer tick
+2023-08-04 16:59:52.670228 [info]: timer tick
+2023-08-04 16:59:56.918450 [info]: deal with the client(127.0.0.1)
+2023-08-04 16:59:56.918528 [info]: adjust timer once
+2023-08-04 16:59:56.918641 [info]: GET / HTTP/1.1
+2023-08-04 16:59:56.918659 [info]: Host: 127.0.0.1:9006
+2023-08-04 16:59:56.918663 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+2023-08-04 16:59:56.918667 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+2023-08-04 16:59:56.918672 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2023-08-04 16:59:56.918676 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2023-08-04 16:59:56.918680 [info]: Accept-Language: en-US,en;q=0.5
+2023-08-04 16:59:56.918684 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2023-08-04 16:59:56.918688 [info]: Accept-Encoding: gzip, deflate
+2023-08-04 16:59:56.918691 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-08-04 16:59:56.918695 [info]: Connection: keep-alive
+2023-08-04 16:59:56.918699 [info]: Upgrade-Insecure-Requests: 1
+2023-08-04 16:59:56.918703 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-08-04 16:59:56.918706 [info]: 
+2023-08-04 16:59:56.918734 [info]: request:HTTP/1.1 200 OK
+
+2023-08-04 16:59:56.918759 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2023-08-04 16:59:56.918764 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2023-08-04 16:59:56.918780 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2023-08-04 16:59:56.918913 [info]: send data to the client(127.0.0.1)
+2023-08-04 16:59:56.918938 [info]: adjust timer once
+2023-08-04 16:59:56.944417 [info]: deal with the client(127.0.0.1)
+2023-08-04 16:59:56.944485 [info]: adjust timer once
+2023-08-04 16:59:56.944519 [info]: GET /favicon.ico HTTP/1.1
+2023-08-04 16:59:56.944533 [info]: Host: 127.0.0.1:9006
+2023-08-04 16:59:56.944538 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+2023-08-04 16:59:56.944542 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+2023-08-04 16:59:56.944547 [info]: Accept: image/webp,*/*
+2023-08-04 16:59:56.944551 [info]: oop!unknow header: Accept: image/webp,*/*
+2023-08-04 16:59:56.944555 [info]: Accept-Language: en-US,en;q=0.5
+2023-08-04 16:59:56.944559 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2023-08-04 16:59:56.944563 [info]: Accept-Encoding: gzip, deflate
+2023-08-04 16:59:56.944567 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-08-04 16:59:56.944571 [info]: Connection: keep-alive
+2023-08-04 16:59:56.944575 [info]: 
+2023-08-04 16:59:56.944596 [info]: request:HTTP/1.1 200 OK
+
+2023-08-04 16:59:56.944602 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2023-08-04 16:59:56.944606 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2023-08-04 16:59:56.944611 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2023-08-04 16:59:56.944666 [info]: send data to the client(127.0.0.1)
+2023-08-04 16:59:56.944674 [info]: adjust timer once
+2023-08-04 16:59:57.671038 [info]: timer tick
+2023-08-04 17:00:00.390532 [info]: deal with the client(127.0.0.1)
+2023-08-04 17:00:00.390649 [info]: adjust timer once
+2023-08-04 17:00:00.390684 [info]: POST /0 HTTP/1.1
+2023-08-04 17:00:00.390712 [info]: Host: 127.0.0.1:9006
+2023-08-04 17:00:00.390716 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+2023-08-04 17:00:00.390719 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+2023-08-04 17:00:00.390722 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2023-08-04 17:00:00.390725 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2023-08-04 17:00:00.390727 [info]: Accept-Language: en-US,en;q=0.5
+2023-08-04 17:00:00.390730 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2023-08-04 17:00:00.390733 [info]: Accept-Encoding: gzip, deflate
+2023-08-04 17:00:00.390735 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-08-04 17:00:00.390739 [info]: Content-Type: application/x-www-form-urlencoded
+2023-08-04 17:00:00.390742 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2023-08-04 17:00:00.390745 [info]: Content-Length: 0
+2023-08-04 17:00:00.390748 [info]: Origin: http://127.0.0.1:9006
+2023-08-04 17:00:00.390750 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2023-08-04 17:00:00.390753 [info]: Connection: keep-alive
+2023-08-04 17:00:00.390756 [info]: Referer: http://127.0.0.1:9006/
+2023-08-04 17:00:00.390759 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/
+2023-08-04 17:00:00.390761 [info]: Upgrade-Insecure-Requests: 1
+2023-08-04 17:00:00.390764 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-08-04 17:00:00.390766 [info]: 
+2023-08-04 17:00:00.390784 [info]: request:HTTP/1.1 200 OK
+
+2023-08-04 17:00:00.390789 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+
+2023-08-04 17:00:00.390792 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:keep-alive
+
+2023-08-04 17:00:00.390795 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:keep-alive
+
+
+2023-08-04 17:00:00.390871 [info]: send data to the client(127.0.0.1)
+2023-08-04 17:00:00.390897 [info]: adjust timer once
+2023-08-04 17:00:02.671224 [info]: timer tick
+2023-08-04 17:00:04.331926 [info]: deal with the client(127.0.0.1)
+2023-08-04 17:00:04.332006 [info]: adjust timer once
+2023-08-04 17:00:04.332054 [info]: POST /0 HTTP/1.1
+2023-08-04 17:00:04.332089 [info]: Host: 127.0.0.1:9006
+2023-08-04 17:00:04.332097 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+2023-08-04 17:00:04.332101 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+2023-08-04 17:00:04.332105 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2023-08-04 17:00:04.332124 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2023-08-04 17:00:04.332129 [info]: Accept-Language: en-US,en;q=0.5
+2023-08-04 17:00:04.332134 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2023-08-04 17:00:04.332137 [info]: Accept-Encoding: gzip, deflate
+2023-08-04 17:00:04.332141 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-08-04 17:00:04.332145 [info]: Content-Type: application/x-www-form-urlencoded
+2023-08-04 17:00:04.332149 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2023-08-04 17:00:04.332153 [info]: Content-Length: 0
+2023-08-04 17:00:04.332158 [info]: Origin: http://127.0.0.1:9006
+2023-08-04 17:00:04.332161 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2023-08-04 17:00:04.332165 [info]: Connection: keep-alive
+2023-08-04 17:00:04.332169 [info]: Referer: http://127.0.0.1:9006/
+2023-08-04 17:00:04.332174 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/
+2023-08-04 17:00:04.332178 [info]: Upgrade-Insecure-Requests: 1
+2023-08-04 17:00:04.332182 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-08-04 17:00:04.332186 [info]: 
+2023-08-04 17:00:04.332208 [info]: request:HTTP/1.1 200 OK
+
+2023-08-04 17:00:04.332217 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+
+2023-08-04 17:00:04.332221 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:keep-alive
+
+2023-08-04 17:00:04.332226 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:keep-alive
+
+
+2023-08-04 17:00:04.332294 [info]: send data to the client(127.0.0.1)
+2023-08-04 17:00:04.332308 [info]: adjust timer once
+2023-08-04 17:00:07.671604 [info]: timer tick
+2023-08-04 17:00:12.672131 [info]: timer tick
+2023-08-04 17:00:17.509239 [info]: deal with the client(127.0.0.1)
+2023-08-04 17:00:17.509313 [info]: adjust timer once
+2023-08-04 17:00:17.509355 [info]: POST /3CGISQL.cgi HTTP/1.1
+2023-08-04 17:00:17.509364 [info]: Host: 127.0.0.1:9006
+2023-08-04 17:00:17.509370 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+2023-08-04 17:00:17.509375 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+2023-08-04 17:00:17.509379 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2023-08-04 17:00:17.509384 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2023-08-04 17:00:17.509388 [info]: Accept-Language: en-US,en;q=0.5
+2023-08-04 17:00:17.509392 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2023-08-04 17:00:17.509396 [info]: Accept-Encoding: gzip, deflate
+2023-08-04 17:00:17.509400 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-08-04 17:00:17.509404 [info]: Content-Type: application/x-www-form-urlencoded
+2023-08-04 17:00:17.509407 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2023-08-04 17:00:17.509411 [info]: Content-Length: 25
+2023-08-04 17:00:17.509415 [info]: Origin: http://127.0.0.1:9006
+2023-08-04 17:00:17.509419 [info]: oop!unknow header: Origin: http://127.0.0.1:9006
+2023-08-04 17:00:17.509425 [info]: Connection: keep-alive
+2023-08-04 17:00:17.509432 [info]: Referer: http://127.0.0.1:9006/0
+2023-08-04 17:00:17.509452 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/0
+2023-08-04 17:00:17.509456 [info]: Upgrade-Insecure-Requests: 1
+2023-08-04 17:00:17.509460 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-08-04 17:00:17.509464 [info]: 
+2023-08-04 17:00:17.509467 [info]: user=name&password=passwd
+2023-08-04 17:00:17.509553 [info]: request:HTTP/1.1 200 OK
+
+2023-08-04 17:00:17.509561 [info]: request:HTTP/1.1 200 OK
+Content-Length:786
+
+2023-08-04 17:00:17.509565 [info]: request:HTTP/1.1 200 OK
+Content-Length:786
+Connection:keep-alive
+
+2023-08-04 17:00:17.509569 [info]: request:HTTP/1.1 200 OK
+Content-Length:786
+Connection:keep-alive
+
+
+2023-08-04 17:00:17.509619 [info]: send data to the client(127.0.0.1)
+2023-08-04 17:00:17.509627 [info]: adjust timer once
+2023-08-04 17:00:17.672536 [info]: timer tick
+2023-08-04 17:00:22.673485 [info]: timer tick
+2023-08-04 17:00:27.673959 [info]: timer tick
+2023-08-04 17:00:29.022204 [info]: close fd 16
+2023-08-04 17:00:32.674380 [info]: timer tick
